@@ -1,0 +1,130 @@
+HONDA Motorcycle Model
+
+Beat 110
+Beat Fi
+Bravo
+Dream 100
+Dream 125
+GL 125
+TX 150 Supremo
+Wave 100
+Wave 100R
+Wave 110
+Wave 125/S
+Wave Alpha
+Wave Alpha 110
+Wave Dash 110
+XLR 200
+XR 200
+XRM 110
+XRM 125 RS
+XRM 125 DS
+XRM 125 MO
+XRM 125 DSX
+
+KAWASAKI Motorcycle Model
+Motorcycle Model
+AR - 80 (K)
+Aurora Classic
+Aurora Nexus
+Bajaj Rouser 200 NS
+Bajaj Rouser 200 LS
+Bajaj Rouser 180
+Bajaj Rouser 200
+Barako 175 / Barako II
+Fury 125 / 125R / 125RR
+KMX 125
+Zx130 B/C
+
+
+SUSUKI Motorcycle Model
+
+GS 125 (Mola 125)
+GS 150 (Mola 150)
+Hayate CVT 125
+Mola 125
+Mola 150
+Raider J / Raider R / Raider Pro
+Raider R / 150
+RC 110
+Shogun 115 Fi
+Shogun 110
+Shogun 125
+Shogun Pro 125
+Shogun R 125
+Shooter 115 Fi
+Smash 110
+Step CVT 125
+Thunder 125
+
+YAMAHA Motorcycle Model
+
+Crypton R / S
+Crypton Z
+Mio Fino
+Mio X125 / MX 125 I (Fi)
+Mio Soul I (Fi)
+Mio Sporty / Mio Soul
+Mio Amore
+Nouvo Z 2d51/51cl
+Sniper 135 AC/HC / MX
+Vega / Vega Force
+Vega Force (Fi)
+X1 AC / HC
+X1-R
+XT 225
+YBR 125G
+
+KTM Motorcycle Model
+
+KTM 200 Duke
+KTM 200 DUKE ABS
+KTM 390 DUKE ABS
+
+KYMCO Motorcycle Model
+
+Active 110
+AXR 110
+Dink 150
+Dink 200i
+Grand Dink 250
+Spike 125
+Topboy 100
+Zing 150
+
+
+LIFAN Motorcycle Model
+
+LF 100-7A
+LF 100-16
+
+MOTORSTAR Motorcycle Model
+
+Easy Ride 150-II
+Fox 125
+Hawk 150-II
+Jazz 125
+Jazz 70-II
+Magnum 250
+MSX 125 Sport / M
+MSX 125-III
+MSX 125-IV
+MSX 150-II
+MSX 200-II
+Panther 150
+Predator 150-II
+Predator 200
+Sapphire 110-II
+Sapphire 125-II
+Star-X 150 / 155
+Well 125/R
+Xplorer Z-200
+Zest 110/ X-110
+
+SYM Motorcycle Model
+
+Blaze 150
+Bonus X 100 / 110
+Magic RR
+Radar X 125
+RV 1-2 Sports 110
